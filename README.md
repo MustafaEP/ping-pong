@@ -4,6 +4,8 @@ Ping Pong Game made for Game Programming Lessons
 ### Oyunumuz basit bir ping-pong mekaniği olan 2D ve 2 kişilik interaktif bir oyundur.
 
 ## Oyun içinden görüntüler
+![WhatsApp Image 2022-11-29 at 22 54 56](https://user-images.githubusercontent.com/73031908/204634751-d253f4af-984d-4d59-9ad7-4bdac9d349ea.jpeg)
+![WhatsApp Image 2022-11-29 at 22 54 57](https://user-images.githubusercontent.com/73031908/204634767-73b0e47c-9524-48c9-8eb5-efcacd5804c8.jpeg)
 
 
 ## Oynanış
